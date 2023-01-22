@@ -24,7 +24,7 @@ a:hover {
     bottom: 0;
     width: 100%;
     z-index: 100000;
-    background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
+    background: #FFFFFF url("./asset/img/pageload-spinner.gif") no-repeat center center;
 }
 
 .bloc {
@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -759,7 +759,6 @@ h4 {
 
 .bold-link {
     font-weight: 900;
-    text-decoration: underline!important;
 }
 
 .bgc-white {
