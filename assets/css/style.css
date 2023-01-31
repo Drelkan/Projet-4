@@ -809,9 +809,10 @@ h4 {
 .tc-white {
     color: #DF3602!important;
 }
-.ltc-boutton{
+.ltc-boutton, .ltc-boutton p{
     color: #373737!important;
 }
+
 
 .first-citation{
     width: 62%;
