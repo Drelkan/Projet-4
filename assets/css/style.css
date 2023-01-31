@@ -18,14 +18,14 @@ a:hover {
     cursor: pointer;
 }
 
-#page-loading-blocs-notifaction {
+/* #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
     bottom: 0;
     width: 100%;
     z-index: 100000;
     background: #FFFFFF url("./asset/img/pageload-spinner.gif") no-repeat center center;
-}
+} */
 
 .bloc {
     width: 100%;
@@ -680,6 +680,17 @@ p {
     font-size: 14px;
 }
 
+.citation{
+    font-size: 18px;
+    width: 80%;
+}
+
+.central{
+    display: flex;
+    justify-content: center;
+}
+
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
@@ -779,20 +790,27 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: #ffffff!important;
 }
 
 .ltc-white:hover {
-    color: #cccccc!important;
+    color: #2e2e2e!important;
+}
+
+.tc-white {
+    color: #DF3602!important;
+}
+.ltc-boutton{
+    color: #373737!important;
 }
 
 .ltc-atomic-tangerine {
