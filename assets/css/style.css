@@ -366,6 +366,9 @@ a:hover {
     position: relative;
     z-index: 2;
 }
+.description{
+    font-size: 22px!important;
+}
 
 @media (min-width: 768px) {
     .site-navigation {
